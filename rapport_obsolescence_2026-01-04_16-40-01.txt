@@ -1,0 +1,56 @@
+================================================================================
+RAPPORT D'AUDIT D'OBSOLESCENCE - NordTransit Logistics
+================================================================================
+
+Date: 04/01/2026 16:40:02
+Total: 10 composants
+
+STATISTIQUES
+--------------------------------------------------------------------------------
+NON SUPPORTÉS                  4
+BIENTÔT NON SUPPORTÉS          0
+SUPPORTÉS                      3
+INCONNUS                       3
+
+================================================================================
+COMPOSANTS NON SUPPORTÉS (URGENT)
+================================================================================
+
+• IPBX-VM
+  IP: 192.168.10.40
+  OS: CentOS 7
+  EOL: 2024-06-30
+
+• Hyperviseur-Lille
+  IP: 192.168.10.5
+  OS: VMware ESXi 6.5
+  EOL: 2022-10-15
+
+• PC-Quai-WH1-01
+  IP: 192.168.20.101
+  OS: Windows 7
+  EOL: 2020-01-14
+
+• PC-Quai-WH2-01
+  IP: 192.168.30.101
+  OS: Windows 10
+  EOL: 2025-10-14
+
+================================================================================
+STATUT INCONNU (AUDIT NÉCESSAIRE)
+================================================================================
+
+• DC01
+  IP: 192.168.10.10
+  OS: Windows Server (édition non précisée)
+  EOL: N/A
+
+• DC02
+  IP: 192.168.10.11
+  OS: Windows Server (édition non précisée)
+  EOL: N/A
+
+• SUPER-01
+  IP: 192.168.10.50
+  OS: Windows Server (édition non précisée)
+  EOL: N/A
