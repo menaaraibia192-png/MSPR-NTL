@@ -52,7 +52,7 @@ WMS backup module
 Obsolescence audit module
 
 The tool generates output files in JSON, TXT, SQL, CSV format.
-
+---
 📁 Project Structure / Structure du projet
 NTL-SysToolbox/
 │
@@ -64,7 +64,7 @@ NTL-SysToolbox/
 ├─ requirements.txt
 ├─ backups/
 └─ docs/
-
+---
 ⚙️ Configuration
 
 MySQL credentials are defined in the file backup.py:
@@ -72,7 +72,7 @@ MySQL credentials are defined in the file backup.py:
 MYSQL_USER = "root"
 MYSQL_PASSWORD = "root"
 DB_NAME = "wms_db"
-
+---
 📦 Deliverables / Livrables
 
 Source code (GitHub repository)
@@ -82,7 +82,7 @@ Technical and functional documentation
 Installation and user manual
 
 Reference obsolescence audit report
-
+---
 👥 Project Team / Équipe du projet
 
 Araibia Menat Allah
@@ -92,13 +92,13 @@ Kacou Murielle
 Khorchaly Oussama
 
 Djaaloul Bilal
-
+---
 🎓 Academic Context / Contexte académique
 
 Project carried out as part of the training:
 Administrateur Systèmes, Réseaux et Bases de Données
 Evaluation module: TPRE511 / E6.1
-
+---
 📬 Contact
 
 mena.araibia192@gmail.com
